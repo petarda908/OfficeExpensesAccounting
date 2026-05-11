@@ -1,1 +1,15 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cachefile
 
+# Операционные системы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.log
